@@ -12,4 +12,5 @@ Documentation is written in English, Español and Português.
 | Day | Topic |
 |-----|-------|
 | [Day 1](day1/day1.md) | Linux User Setup with Non-Interactive Shell |
+| [Day 2](day2/day2.md) | Linux User with Expiry Date |
  
